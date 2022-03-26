@@ -13,6 +13,7 @@ parts {
     }
     foreground {
       mask foreground.png
+      cutout emu02
     }
   }
 }
